@@ -1,0 +1,13 @@
+KNN | ORLANDO TRIP 2026
+
+1. Extraia TODO o ZIP antes de abrir o site.
+2. Abra index.html no navegador. Não abra o HTML dentro do ZIP.
+3. Para atualizar seu repositório, substitua os arquivos antigos e envie a pasta assets inteira junto. O index.html deve ficar na raiz da pasta publicada.
+
+O pacote inclui 27 fotografias reais dos locais, a logo KNN enviada por você, o roteiro de 16 dias, o mapa esquemático interativo e os temas claro/escuro.
+As fotos e a logo são locais e abrem sem internet. Fontes tipográficas, Google Maps e links de fontes precisam de conexão; sem as fontes online, o site usa uma fonte do sistema.
+
+Se ainda aparecer a versão anterior, atualize com Ctrl+F5 no computador.
+Edite data.js para alterar o roteiro. As fontes das fotos ficam em images.js e nos detalhes de cada local.
+As imagens dos restaurantes/lojas sem unidade definida são ilustrativas. A foto do dia de descanso não representa a hospedagem do grupo.
+A logo foi fornecida pelo usuário. As fotos pertencem aos respectivos autores/fontes; não há transferência de direitos sobre elas.
